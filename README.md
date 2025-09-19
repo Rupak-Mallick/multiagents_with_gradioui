@@ -1,4 +1,4 @@
-# Multi-Agent AI System
+# Multi-Agent AI System with gradio UI
 
 A multi-agent system with specialized agents for research and mathematical tasks, coordinated by a supervisor agent.
 
